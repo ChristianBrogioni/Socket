@@ -1,5 +1,3 @@
-package gestioneSocket;
-
 import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.Scanner;
